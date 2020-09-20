@@ -1,1 +1,1 @@
-https://adstate.github.io/rsschool-cv/cv
+https://adstate.github.io/rsschool-cv
