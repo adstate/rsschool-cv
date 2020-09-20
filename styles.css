@@ -1,0 +1,33 @@
+body {
+   margin: 0;
+}
+
+.container {
+  display: flex;
+  padding-top: 55px;
+  padding-bottom: 55px;
+  min-height: 100vh;
+  justify-content: center;
+  background-color: #f8f8f8;
+}
+
+.cv {
+  width: 768px;
+  min-height: 620px;
+  padding: 45px;
+  box-shadow: 2px 2px 7px rgba(0, 0, 0, 0.4);
+  background-color: #fff;
+}
+
+.cv-profile {
+  display: flex;
+}
+
+.cv-profile__photo {
+  margin-right: 45px;
+}
+
+.cv-profile__photo img {
+  width: 200px;
+  height: auto;
+}
