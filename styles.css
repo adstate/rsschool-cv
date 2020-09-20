@@ -12,9 +12,26 @@ body {
 }
 
 .cv {
-    width: 860px;
+    width: 768px;
     min-height: 620px;
     padding: 45px;
-    box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.4);
+    box-shadow: 2px 2px 7px rgba(0, 0, 0, 0.4);
     background-color: #fff;
+}
+
+.cv-profile {
+    display: flex;
+}
+
+.cv-profile__photo {
+    margin-right: 45px;
+}
+
+.cv-profile__photo img {
+    width: 200px;
+    height: auto;
+}
+
+.cv-profile__about {
+
 }
